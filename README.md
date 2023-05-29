@@ -1,4 +1,4 @@
-# Card Profile
+# Profile Card
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/brunaoks/profile-card?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/profile-card?style=for-the-badge)
@@ -23,9 +23,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações�
 - Um browser de sua preferência para visualização do projeto.
 - NodeJS instalado na sua máquina.
 
-## 🚀 Instalando Card profile
+## 🚀 Instalando Profile card
 
-Para instalar o Card profile, siga estas etapas:
+Para instalar o Profile card, siga estas etapas:
 
 Clone o repositório na sua máquina usando:
 
@@ -33,9 +33,9 @@ Clone o repositório na sua máquina usando:
 git clone https://github.com/brunaoks/profile-card.git
 ```
 
-## ☕ Abrindo o Card profile
+## ☕ Abrindo o Profile card
 
-Para abrir o Card Profile, siga esta etapa:
+Para abrir o Profile card, siga esta etapa:
 
 Execute no terminal de sua preferência:
 
