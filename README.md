@@ -10,7 +10,7 @@
 <img src="#" width="450px" />
 </div> -->
 
-> Meu card pessoal desenvolvido com React. Para acessar o projeto <a href="https://brunaoks.github.io/profile-card/" target="_blank">Clique aqui.</a>
+> Meu card pessoal desenvolvido com React. Para acessar o projeto <a href="https://profile-salomao.netlify.app/" target="_blank">Clique aqui.</a>
 
 ## 🛠️ Ajustes e melhorias
 
