@@ -4,7 +4,13 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/brunaoks/profile-card?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/brunaoks/profile-card?style=for-the-badge)
 
-## Imagens
+## Desktop
+
+<!-- <div align="center">
+<img src="#" width="450px" />
+</div> -->
+
+## Mobile
 
 <!-- <div align="center">
 <img src="#" width="450px" />
