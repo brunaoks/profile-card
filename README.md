@@ -6,9 +6,9 @@
 
 ## Desktop
 
-<!-- <div align="center">
-<img src="#" width="450px" />
-</div> -->
+<div align="center">
+<img src="https://github.com/brunaoks/profile-card/assets/102770109/19579448-6e7a-4602-9c0a-ea8c0c623e33" width="450px" />
+</div>
 
 ## Mobile
 
