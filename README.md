@@ -16,7 +16,7 @@
 <img src="#" width="450px" />
 </div> -->
 
-> Meu card pessoal desenvolvido com React. Para acessar o projeto <a href="https://profile-salomao.netlify.app/" target="_blank">Clique aqui.</a>
+> Meu card pessoal desenvolvido com React/Vite. Para acessar o projeto <a href="https://profile-salomao.netlify.app/" target="_blank">Clique aqui.</a>
 
 ## 🛠️ Ajustes e melhorias
 
@@ -39,13 +39,26 @@ Clone o repositório na sua máquina usando:
 git clone https://github.com/brunaoks/profile-card.git
 ```
 
-## ☕ Abrindo o Profile card
+Navegue até o diretório do projeto:
 
-Para abrir o Profile card, siga esta etapa:
+```
+cd profile-card
+```
 
-Execute no terminal de sua preferência:
+Instale as dependências:
 
 ```
 npm install
+```
+
+## ☕ Abrindo o Profile card
+
+Para abrir o Profile card, siga estas etapas:
+
+Execute no terminal de sua preferência para iniciar o servidor de desenvolvimento:
+
+```
 npm run dev
 ```
+
+Abra o navegador e acesse o link local mostrado no terminal.
