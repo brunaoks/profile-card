@@ -61,4 +61,8 @@ Execute no terminal de sua preferência para iniciar o servidor de desenvolvimen
 npm run dev
 ```
 
-Abra o navegador e acesse o link local mostrado no terminal.
+Abra seu navegador e acesse:
+
+```
+http://localhost:5173
+```
