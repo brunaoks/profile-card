@@ -46,5 +46,6 @@ Para abrir o Profile card, siga esta etapa:
 Execute no terminal de sua preferência:
 
 ```
+npm install
 npm run dev
 ```
